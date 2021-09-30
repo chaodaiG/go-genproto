@@ -1,4 +1,4 @@
-module google.golang.org/genproto
+module github.com/chaodaiG/go-genproto
 
 go 1.11
 
